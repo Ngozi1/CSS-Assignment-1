@@ -1,0 +1,39 @@
+#likes{
+    background-color: red;
+}
+
+.likes{
+    background-color: blue;
+}
+
+.like_one{
+    background-color: yellow;
+}
+
+#like_one{
+    background-color: green;
+}
+
+#like_two{
+    background-color: purple;
+}
+
+.unlike{
+    background-color: brown;
+}
+
+#unlike{
+    background-color: darkolivegreen;
+}
+
+.unlike_one{
+    background-color: crimson;
+}
+
+#unlike_one{
+    background-color: deeppink;
+}
+
+#unlike_two{
+    background-color: cyan;
+}
